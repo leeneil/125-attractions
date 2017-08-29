@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "Great Wall of China",
+    "lat": 40.4319077,
+    "lng": 116.5703749
+  },
+  {
+    "name": "Statue of Liberty",
+    "lat": 40.6892494,
+    "lng": -74.04450039999999
+  },
+  {
+    "name": "Eiffel Tower",
+    "lat": 48.85837009999999,
+    "lng": 2.2944813
+  },
+  {
+    "name": "Big Ben",
+    "lat": 51.50072919999999,
+    "lng": -0.1246254
+  },
+  {
+    "name": "Sydney Opera House",
+    "lat": -33.8567844,
+    "lng": 151.2152967
+  },
+  {
+    "name": "Hollywood Sign",
+    "lat": 34.1341151,
+    "lng": -118.3215482
+  },
+  {
+    "name": "Colosseum",
+    "lat": 41.8902102,
+    "lng": 12.4922309
+  },
+  {
+    "name": "White House",
+    "lat": 38.8976763,
+    "lng": -77.0365298
+  },
+  {
+    "name": "Sagrada Familia",
+    "lat": 41.4036299,
+    "lng": 2.1743558
+  },
+  {
+    "name": "Little Mermaid",
+    "lat": 59.6033802,
+    "lng": -151.4257531
+  },
+  {
+    "name": "Taj Mahal",
+    "lat": 27.1750151,
+    "lng": 78.0421552
+  },
+  {
+    "name": "Burj Al Arab Hotel",
+    "lat": 25.141306,
+    "lng": 55.185348
+  },
+  {
+    "name": "The Pyramids of Giza",
+    "lat": 29.9792345,
+    "lng": 31.1342019
+  },
+  {
+    "name": "Grand Canyon",
+    "lat": 36.1069652,
+    "lng": -112.1129972
+  },
+  {
+    "name": "Arc de Triomphe",
+    "lat": 48.8737917,
+    "lng": 2.2950275
+  },
+  {
+    "name": "Times Square",
+    "lat": 40.758895,
+    "lng": -73.985131
+  },
+  {
+    "name": "Acropolis, Greece",
+    "lat": 37.9715323,
+    "lng": 23.7257492
+  },
+  {
+    "name": "Tokyo Tower",
+    "lat": 35.6585805,
+    "lng": 139.7454329
+  },
+  {
+    "name": "Brussels: Mannekin-Pis",
+    "lat": 50.8449933,
+    "lng": 4.3499778
+  },
+  {
+    "name": "Christ the Redeemer - Rio De Janerio, Brazil",
+    "lat": -22.951916,
+    "lng": -43.2104872
+  },
+  {
+    "name": "Uluru",
+    "lat": -25.3444277,
+    "lng": 131.0368822
+  },
+  {
+    "name": "London Eye",
+    "lat": 51.503324,
+    "lng": -0.119543
+  },
+  {
+    "name": "Empire State Building",
+    "lat": 40.7484405,
+    "lng": -73.98566439999999
+  },
+  {
+    "name": "Machu Picchu",
+    "lat": -13.1631412,
+    "lng": -72.5449629
+  },
+  {
+    "name": "The Forbidden City, China",
+    "lat": 39.9163447,
+    "lng": 116.3971546
+  },
+  {
+    "name": "Burj Khalifa",
+    "lat": 25.197197,
+    "lng": 55.27437639999999
+  },
+  {
+    "name": "Louvre Museum",
+    "lat": 48.8606111,
+    "lng": 2.337644
+  },
+  {
+    "name": "Petra",
+    "lat": 30.3284544,
+    "lng": 35.4443622
+  },
+  {
+    "name": "Saint Basil's Cathedral",
+    "lat": 55.7525229,
+    "lng": 37.6230868
+  },
+  {
+    "name": "Prague Castle",
+    "lat": 50.09021629999999,
+    "lng": 14.3995792
+  },
+  {
+    "name": "Oriental Pearl Tower",
+    "lat": 31.2396889,
+    "lng": 121.4997553
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "lat": 37.8199286,
+    "lng": -122.4782551
+  },
+  {
+    "name": "Hagia Sophia",
+    "lat": 41.008583,
+    "lng": 28.980175
+  },
+  {
+    "name": "Mount Rushmore",
+    "lat": 43.87910249999999,
+    "lng": -103.4590667
+  },
+  {
+    "name": "Stonehenge",
+    "lat": 51.17888199999999,
+    "lng": -1.826215
+  },
+  {
+    "name": "Versailles",
+    "lat": 48.8048649,
+    "lng": 2.1203554
+  },
+  {
+    "name": "Kilimanjaro",
+    "lat": -3.0674247,
+    "lng": 37.35562729999999
+  },
+  {
+    "name": "Capitol Hill",
+    "lat": 38.8860434,
+    "lng": -76.999525
+  },
+  {
+    "name": "Berlin Wall",
+    "lat": 52.53505209999999,
+    "lng": 13.3901898
+  },
+  {
+    "name": "Ancient City Walls, Dubrovnik",
+    "lat": 42.6416987,
+    "lng": 18.1072376
+  },
+  {
+    "name": "Tower of London",
+    "lat": 51.50811239999999,
+    "lng": -0.0759493
+  },
+  {
+    "name": "Moai",
+    "lat": -27.112723,
+    "lng": -109.3496865
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "lat": 47.557574,
+    "lng": 10.7498004
+  },
+  {
+    "name": "Milan Cathedral",
+    "lat": 45.4640976,
+    "lng": 9.1919265
+  },
+  {
+    "name": "Vesuvio",
+    "lat": 40.6325896,
+    "lng": -74.0271415
+  },
+  {
+    "name": "Rock of Gibraltar",
+    "lat": 36.1440934,
+    "lng": -5.3417241
+  },
+  {
+    "name": "Willis Tower (Sears Tower)",
+    "lat": 41.8788764,
+    "lng": -87.6359149
+  },
+  {
+    "name": "Hermitage Museum",
+    "lat": 59.93983170000001,
+    "lng": 30.3145597
+  },
+  {
+    "name": "Tower Bridge",
+    "lat": 51.5055972,
+    "lng": -0.0753379
+  },
+  {
+    "name": "Chichen Itza Mexico",
+    "lat": 20.6842849,
+    "lng": -88.5677826
+  },
+  {
+    "name": "The Great Sphinx",
+    "lat": 29.9752687,
+    "lng": 31.1375674
+  },
+  {
+    "name": "Niagara Falls",
+    "lat": 43.0962143,
+    "lng": -79.0377388
+  },
+  {
+    "name": "Sacre-Coeur Basilica",
+    "lat": 48.88670459999999,
+    "lng": 2.3431043
+  },
+  {
+    "name": "Space Needle",
+    "lat": 47.6205063,
+    "lng": -122.3492774
+  },
+  {
+    "name": "Mont St. Michel, France",
+    "lat": 48.636063,
+    "lng": -1.511457
+  },
+  {
+    "name": "St. Peter's Basilica, Vatican",
+    "lat": 41.9021667,
+    "lng": 12.4539367
+  },
+  {
+    "name": "Angkor Wat, Cambodia",
+    "lat": 13.4124693,
+    "lng": 103.8669857
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "lat": 40.7060855,
+    "lng": -73.9968643
+  },
+  {
+    "name": "Kremlin",
+    "lat": 55.7520233,
+    "lng": 37.6174994
+  },
+  {
+    "name": "Pantheon",
+    "lat": 41.8986108,
+    "lng": 12.4768729
+  },
+  {
+    "name": "Trafalgar Square",
+    "lat": 51.508039,
+    "lng": -0.128069
+  },
+  {
+    "name": "Pond Du Garre",
+    "lat": 43.94756599999999,
+    "lng": 4.53496
+  },
+  {
+    "name": "Alhambra",
+    "lat": 37.1760783,
+    "lng": -3.5881413
+  },
+  {
+    "name": "Gamla Stan, Stockholm",
+    "lat": 59.3256984,
+    "lng": 18.0718788
+  },
+  {
+    "name": "Monument Valley Navajo Tribal Park",
+    "lat": 36.9895165,
+    "lng": -110.131242
+  },
+  {
+    "name": "Potala Palace, Lhasa",
+    "lat": 29.6554942,
+    "lng": 91.11857920000001
+  },
+  {
+    "name": "Matterhorn",
+    "lat": 45.976574,
+    "lng": 7.6584519
+  },
+  {
+    "name": "St. Mark's Square Venice",
+    "lat": 45.4341668,
+    "lng": 12.3384717
+  },
+  {
+    "name": "Buckingham Palace",
+    "lat": 51.501364,
+    "lng": -0.14189
+  },
+  {
+    "name": "Ellis Island",
+    "lat": 40.6994748,
+    "lng": -74.0395587
+  },
+  {
+    "name": "Trevi Fountain",
+    "lat": 41.9009325,
+    "lng": 12.483313
+  },
+  {
+    "name": "Rockefeller Center",
+    "lat": 40.7587402,
+    "lng": -73.9786736
+  },
+  {
+    "name": "Auschwitz",
+    "lat": 50.0273915,
+    "lng": 19.2019773
+  },
+  {
+    "name": "Iguazu Falls",
+    "lat": -25.695259,
+    "lng": -54.4366662
+  },
+  {
+    "name": "Knossos, Crete",
+    "lat": 35.2984804,
+    "lng": 25.1595555
+  },
+  {
+    "name": "Windsor Castle",
+    "lat": 51.483894,
+    "lng": -0.6044027
+  },
+  {
+    "name": "The Summer Palace, China",
+    "lat": 39.9999823,
+    "lng": 116.2754606
+  },
+  {
+    "name": "Fuji",
+    "lat": 35.1613985,
+    "lng": 138.6762728
+  },
+  {
+    "name": "Festung Hohensalzburg",
+    "lat": 47.79494829999999,
+    "lng": 13.0476583
+  },
+  {
+    "name": "Great Barrier Reef",
+    "lat": -18.2870668,
+    "lng": 147.6991918
+  },
+  {
+    "name": "Yellowstone National Park",
+    "lat": 44.427963,
+    "lng": -110.588455
+  },
+  {
+    "name": "Luxor",
+    "lat": 36.09551,
+    "lng": -115.1760672
+  },
+  {
+    "name": "Grand Bazaar, Istanbul",
+    "lat": 41.0106848,
+    "lng": 28.9680681
+  },
+  {
+    "name": "Great Geysir, Iceland",
+    "lat": 64.31037189999999,
+    "lng": -20.3023605
+  },
+  {
+    "name": "Berlin Museum Island",
+    "lat": 52.5169328,
+    "lng": 13.4018997
+  },
+  {
+    "name": "Galapagos Islands",
+    "lat": -0.9537690999999999,
+    "lng": -90.9656019
+  },
+  {
+    "name": "Lake Titicaca",
+    "lat": -15.9254,
+    "lng": -69.33539999999999
+  },
+  {
+    "name": "Newgrange",
+    "lat": 53.69471189999999,
+    "lng": -6.4754917
+  },
+  {
+    "name": "Cappadocia, Turkey",
+    "lat": 38.720489,
+    "lng": 35.48259700000001
+  },
+  {
+    "name": "Everglades National Park",
+    "lat": 25.2866155,
+    "lng": -80.89865089999999
+  },
+  {
+    "name": "Rijksmuseum",
+    "lat": 52.3599976,
+    "lng": 4.8852188
+  },
+  {
+    "name": "Pompidue Center",
+    "lat": 48.860642,
+    "lng": 2.352245
+  },
+  {
+    "name": "Central Park",
+    "lat": 40.7828647,
+    "lng": -73.9653551
+  },
+  {
+    "name": "Torre De Belém (Belém Tower)",
+    "lat": 38.6915837,
+    "lng": -9.215977299999999
+  },
+  {
+    "name": "Leaning Tower of Pisa, Pisa",
+    "lat": 43.722952,
+    "lng": 10.396597
+  },
+  {
+    "name": "Table Mountain Cape Town",
+    "lat": -33.962822,
+    "lng": 18.4098406
+  },
+  {
+    "name": "Twelve Apostles",
+    "lat": -38.6621015,
+    "lng": 143.1050917
+  },
+  {
+    "name": "CN Tower",
+    "lat": 43.6425662,
+    "lng": -79.3870568
+  },
+  {
+    "name": "Westminster Abbey",
+    "lat": 51.4992921,
+    "lng": -0.1273097
+  },
+  {
+    "name": "Schonbrunn Palace",
+    "lat": 48.18486480000001,
+    "lng": 16.3122398
+  },
+  {
+    "name": "Edinburgh Castle",
+    "lat": 55.9485947,
+    "lng": -3.1999135
+  },
+  {
+    "name": "Oslo Opera House",
+    "lat": 59.90748850000001,
+    "lng": 10.7531275
+  },
+  {
+    "name": "Lincoln Memorial",
+    "lat": 38.8892686,
+    "lng": -77.050176
+  },
+  {
+    "name": "Yosemite National Park",
+    "lat": 37.8651011,
+    "lng": -119.5383294
+  },
+  {
+    "name": "Notre Dame Cathedral",
+    "lat": 48.85296820000001,
+    "lng": 2.3499021
+  },
+  {
+    "name": "Mount Everest",
+    "lat": 27.98785,
+    "lng": 86.9250261
+  },
+  {
+    "name": "St. Mark's Basilica & Campanile",
+    "lat": 45.4340359,
+    "lng": 12.3390331
+  },
+  {
+    "name": "Pompeii",
+    "lat": 40.7461572,
+    "lng": 14.4989344
+  },
+  {
+    "name": "Madrid Palace",
+    "lat": 40.417955,
+    "lng": -3.714311999999999
+  },
+  {
+    "name": "Florence Cathedral",
+    "lat": 43.773145,
+    "lng": 11.2559602
+  },
+  {
+    "name": "Las Vegas",
+    "lat": 36.1699412,
+    "lng": -115.1398296
+  },
+  {
+    "name": "St. Paul's Cathedral",
+    "lat": 51.5138453,
+    "lng": -0.0983506
+  },
+  {
+    "name": "Rialto Bridge",
+    "lat": 45.4379842,
+    "lng": 12.335898
+  },
+  {
+    "name": "Alcatraz",
+    "lat": 37.8269775,
+    "lng": -122.4229555
+  },
+  {
+    "name": "White Cliffs of Dover",
+    "lat": 51.13446889999999,
+    "lng": 1.3573028
+  },
+  {
+    "name": "Washington Monument",
+    "lat": 38.8894838,
+    "lng": -77.0352791
+  },
+  {
+    "name": "Arena Di Verona",
+    "lat": 45.4389958,
+    "lng": 10.9943574
+  },
+  {
+    "name": "The Gherkin",
+    "lat": 51.51449179999999,
+    "lng": -0.0803065
+  },
+  {
+    "name": "Brandenburg Gate, Berlin",
+    "lat": 52.5162746,
+    "lng": 13.3777041
+  },
+  {
+    "name": "Pentagon",
+    "lat": 38.8718568,
+    "lng": -77.0562669
+  },
+  {
+    "name": "Cloud Gate, Chicago",
+    "lat": 41.8826572,
+    "lng": -87.6233039
+  },
+  {
+    "name": "Terracotta Warriors",
+    "lat": 34.3841153,
+    "lng": 109.2784918
+  },
+  {
+    "name": "Cologne Cathedral",
+    "lat": 50.94127839999999,
+    "lng": 6.9582814
+  },
+  {
+    "name": "The Shard",
+    "lat": 51.5045,
+    "lng": -0.0865
+  },
+  {
+    "name": "Nyhavn",
+    "lat": 55.6797154,
+    "lng": 12.5907984
+  },
+  {
+    "name": "Ponte Vecchio",
+    "lat": 43.767925,
+    "lng": 11.2531435
+  },
+  {
+    "name": "Wailing Wall",
+    "lat": 31.7767189,
+    "lng": 35.2345085
+  },
+  {
+    "name": "Loch Ness",
+    "lat": 57.3228575,
+    "lng": -4.4243818
+  },
+  {
+    "name": "Sydney Harbor Bridge",
+    "lat": -33.8523063,
+    "lng": 151.2107871
+  },
+  {
+    "name": "Sistine Chapel",
+    "lat": 41.9029468,
+    "lng": 12.4544835
+  },
+  {
+    "name": "Mecca",
+    "lat": 21.3890824,
+    "lng": 39.8579118
+  },
+  {
+    "name": "Bridge of Sighs",
+    "lat": 45.43404959999999,
+    "lng": 12.3408544
+  },
+  {
+    "name": "Mount Etna",
+    "lat": 37.751005,
+    "lng": 14.9934349
+  },
+  {
+    "name": "Lascaux Caves, France",
+    "lat": 45.053919,
+    "lng": 1.167651
+  },
+  {
+    "name": "Bryce Canyon National Park",
+    "lat": 37.5930377,
+    "lng": -112.1870895
+  },
+  {
+    "name": "Great Buddha",
+    "lat": 35.3166995,
+    "lng": 139.5361536
+  },
+  {
+    "name": "Spanish Steps",
+    "lat": 41.90599,
+    "lng": 12.482775
+  },
+  {
+    "name": "Freedom Tower, Ground Zero",
+    "lat": 40.7127431,
+    "lng": -74.0133795
+  },
+  {
+    "name": "Gateway Arch",
+    "lat": 38.624691,
+    "lng": -90.1847763
+  },
+  {
+    "name": "Shanghai World Finacial Center",
+    "lat": 31.2345644,
+    "lng": 121.5074394
+  },
+  {
+    "name": "Redwood National Park",
+    "lat": 41.2131788,
+    "lng": -124.0046275
+  },
+  {
+    "name": "Moulin Rouge",
+    "lat": 48.8841232,
+    "lng": 2.3322519
+  },
+  {
+    "name": "Mill Complex at Kinderdijk",
+    "lat": 51.8883468,
+    "lng": 4.636879500000001
+  },
+  {
+    "name": "Kronborg Castle",
+    "lat": 56.0390142,
+    "lng": 12.6211552
+  },
+  {
+    "name": "Santorini",
+    "lat": 36.3931562,
+    "lng": 25.4615092
+  },
+  {
+    "name": "Helsinki Cathedral",
+    "lat": 60.1704191,
+    "lng": 24.9521651
+  },
+  {
+    "name": "Berlin Cathedral",
+    "lat": 52.5190608,
+    "lng": 13.401078
+  },
+  {
+    "name": "Brighton Pier",
+    "lat": 50.8168555,
+    "lng": -0.136738
+  },
+  {
+    "name": "Tivoli Gardens",
+    "lat": 55.6736841,
+    "lng": 12.5681471
+  },
+  {
+    "name": "Papel Palace, Avignon",
+    "lat": 43.9508521,
+    "lng": 4.8076971
+  },
+  {
+    "name": "Disneyland Paris",
+    "lat": 48.8722344,
+    "lng": 2.7758079
+  },
+  {
+    "name": "Tsarskoye Selo (Catherine Palace), St Petersburg, Russia",
+    "lat": 59.716123,
+    "lng": 30.3956531
+  },
+  {
+    "name": "Bath, England",
+    "lat": 51.375801,
+    "lng": -2.3599039
+  },
+  {
+    "name": "Juliet's Balcony",
+    "lat": 51.1945054,
+    "lng": -0.0519706
+  },
+  {
+    "name": "Giant's Causeway",
+    "lat": 55.2408073,
+    "lng": -6.5115554
+  },
+  {
+    "name": "Bran Castle",
+    "lat": 45.51490219999999,
+    "lng": 25.3671637
+  },
+  {
+    "name": "Portofino",
+    "lat": 44.3031559,
+    "lng": 9.2097879
+  },
+  {
+    "name": "Atomium, Brussels",
+    "lat": 50.894941,
+    "lng": 4.341546999999999
+  },
+  {
+    "name": "Chapel Bridge",
+    "lat": 47.0516489,
+    "lng": 8.307535099999999
+  },
+  {
+    "name": "Guggenheim Museum (Bilbao)",
+    "lat": 43.2686712,
+    "lng": -2.9340118
+  },
+  {
+    "name": "Piazza Del Campo, Siena",
+    "lat": 43.31842049999999,
+    "lng": 11.3316911
+  },
+  {
+    "name": "Hollywood Walk of Fame",
+    "lat": 34.1016992,
+    "lng": -118.3336771
+  },
+  {
+    "name": "Death Valley",
+    "lat": 36.5053891,
+    "lng": -117.0794078
+  },
+  {
+    "name": "British Museum",
+    "lat": 51.5194133,
+    "lng": -0.1269566
+  },
+  {
+    "name": "Amalienborg Palace",
+    "lat": 55.6840588,
+    "lng": 12.5930201
+  },
+  {
+    "name": "Blue Lagoon",
+    "lat": 63.880391,
+    "lng": -22.4495089
+  },
+  {
+    "name": "Oxford University",
+    "lat": 51.7548164,
+    "lng": -1.2543668
+  },
+  {
+    "name": "Blue Mosque, Istanbul",
+    "lat": 41.0054096,
+    "lng": 28.9768138
+  },
+  {
+    "name": "Millau Bridge, France",
+    "lat": 44.0774541,
+    "lng": 3.0228388
+  },
+  {
+    "name": "Piccadilly Circus",
+    "lat": 51.5100913,
+    "lng": -0.1345676
+  },
+  {
+    "name": "Carcassonne",
+    "lat": 43.212161,
+    "lng": 2.353663
+  },
+  {
+    "name": "Osaka Castle",
+    "lat": 34.6873153,
+    "lng": 135.5262013
+  },
+  {
+    "name": "Bodiam Castle",
+    "lat": 51.002266,
+    "lng": 0.543549
+  },
+  {
+    "name": "Matsumoto Castle",
+    "lat": 36.23866599999999,
+    "lng": 137.9690221
+  },
+  {
+    "name": "Drottningholm Palace",
+    "lat": 59.32169349999999,
+    "lng": 17.8868253
+  },
+  {
+    "name": "Lover's Bridge",
+    "lat": 38.7869313,
+    "lng": -76.2221902
+  },
+  {
+    "name": "Charles Bridge",
+    "lat": 50.0864771,
+    "lng": 14.4114366
+  },
+  {
+    "name": "Pont D'avignon",
+    "lat": 43.9538522,
+    "lng": 4.8048781
+  },
+  {
+    "name": "D-Day Beaches, American Cemetary",
+    "lat": 49.3586702,
+    "lng": -0.8514512
+  },
+  {
+    "name": "Oresund Bridge, Copenhagen",
+    "lat": 55.5706287,
+    "lng": 12.8486371
+  },
+  {
+    "name": "Roskilde Cathedral",
+    "lat": 55.64263769999999,
+    "lng": 12.0804491
+  },
+  {
+    "name": "Big Sur",
+    "lat": 36.3614749,
+    "lng": -121.856261
+  },
+  {
+    "name": "Sequoia National Park",
+    "lat": 36.4863668,
+    "lng": -118.5657516
+  },
+  {
+    "name": "Torres Del Paine National Park",
+    "lat": -50.9423262,
+    "lng": -73.4067879
+  },
+  {
+    "name": "Rock-Hewn Churches, Lalibela",
+    "lat": 12.0308987,
+    "lng": 39.0476298
+  },
+  {
+    "name": "Carnac",
+    "lat": 47.58469299999999,
+    "lng": -3.077786
+  },
+  {
+    "name": "Krakow - Wawel Cathedral",
+    "lat": 50.0546371,
+    "lng": 19.9354684
+  },
+  {
+    "name": "Ollantaytambo, Peru",
+    "lat": -13.2583689,
+    "lng": -72.2642679
+  },
+  {
+    "name": "Grand Teton National Park, Wyoming",
+    "lat": 43.7904282,
+    "lng": -110.6817627
+  },
+  {
+    "name": "Guggenheim (New York City)",
+    "lat": 40.7829796,
+    "lng": -73.9589706
+  },
+  {
+    "name": "Church in the Rock",
+    "lat": 60.17299499999999,
+    "lng": 24.925234
+  },
+  {
+    "name": "Masai Mara, Kenya",
+    "lat": -1.4065513,
+    "lng": 34.906551
+  },
+  {
+    "name": "Lago Di Garda, Italy",
+    "lat": 45.6049385,
+    "lng": 10.6351414
+  },
+  {
+    "name": "Pienza",
+    "lat": 43.0774495,
+    "lng": 11.6775951
+  },
+  {
+    "name": "San Diego Zoo",
+    "lat": 32.735316,
+    "lng": -117.149046
+  },
+  {
+    "name": "Arches National Park",
+    "lat": 38.733081,
+    "lng": -109.5925139
+  },
+  {
+    "name": "Milford Sound",
+    "lat": -44.6414024,
+    "lng": 167.8973801
+  },
+  {
+    "name": "Serengeti National Park, Tanzania",
+    "lat": -2.3333333,
+    "lng": 34.8333333
+  },
+  {
+    "name": "Angel Falls",
+    "lat": 5.967518000000001,
+    "lng": -62.53556099999999
+  },
+  {
+    "name": "Tallinn Town Hall Square, Estonia",
+    "lat": 59.4369933,
+    "lng": 24.7453731
+  },
+  {
+    "name": "Bryggen",
+    "lat": 60.3975672,
+    "lng": 5.3245493
+  },
+  {
+    "name": "Van Gogh Museum",
+    "lat": 52.3584159,
+    "lng": 4.8810756
+  },
+  {
+    "name": "Cambridge University",
+    "lat": 52.2042666,
+    "lng": 0.1149085
+  },
+  {
+    "name": "Okavango Delta",
+    "lat": -19.6510095,
+    "lng": 22.9058802
+  },
+  {
+    "name": "Monte Fitz Roy, El Chalten, Argentina/Chile",
+    "lat": -49.271246,
+    "lng": -73.04322599999999
+  },
+  {
+    "name": "Hoover Dam",
+    "lat": 36.0160655,
+    "lng": -114.7377325
+  },
+  {
+    "name": "Banff National Park",
+    "lat": 51.4968464,
+    "lng": -115.9280562
+  },
+  {
+    "name": "Winslow, AZ - Meteor Barringer Crater",
+    "lat": 35.0275441,
+    "lng": -111.0221236
+  },
+  {
+    "name": "Teotihuacan",
+    "lat": 19.685267,
+    "lng": -98.8721186
+  },
+  {
+    "name": "The Panama Canal",
+    "lat": 9.1438034,
+    "lng": -79.7285161
+  },
+  {
+    "name": "Carlsbad Caverns National Park",
+    "lat": 32.1478553,
+    "lng": -104.5567138
+  },
+  {
+    "name": "Mezquita of Cordoba",
+    "lat": 37.8789056,
+    "lng": -4.7793869
+  },
+  {
+    "name": "Chartres Cathedral",
+    "lat": 48.4478026,
+    "lng": 1.4878371
+  },
+  {
+    "name": "Chateau De Chambord",
+    "lat": 47.616126,
+    "lng": 1.517218
+  },
+  {
+    "name": "Delphi",
+    "lat": 40.5875371,
+    "lng": -86.6750059
+  },
+  {
+    "name": "Valley of the Kings",
+    "lat": 25.7401643,
+    "lng": 32.601411
+  },
+  {
+    "name": "Jerusalem Old City",
+    "lat": 31.7776563,
+    "lng": 35.2324593
+  },
+  {
+    "name": "The Aswan High Dam",
+    "lat": 23.970883,
+    "lng": 32.8772699
+  },
+  {
+    "name": "Ngorongoro Crater",
+    "lat": -3.1617522,
+    "lng": 35.5876697
+  },
+  {
+    "name": "Golden Temple - Darbar Sahib - Harmandir Sahib",
+    "lat": 31.61998029999999,
+    "lng": 74.8764849
+  },
+  {
+    "name": "Lake Baikal",
+    "lat": 53.5587003,
+    "lng": 108.1649965
+  },
+  {
+    "name": "Borobudur Temple, Java",
+    "lat": -7.6078738,
+    "lng": 110.2037513
+  },
+  {
+    "name": "Zhangjiajie China",
+    "lat": 29.117096,
+    "lng": 110.479191
+  },
+  {
+    "name": "Banaue Rice Terraces",
+    "lat": 16.9239537,
+    "lng": 121.0556401
+  },
+  {
+    "name": "Komodo Island, Indonesia",
+    "lat": -8.5850461,
+    "lng": 119.4411476
+  },
+  {
+    "name": "Victoria Falls",
+    "lat": -17.9243527,
+    "lng": 25.8558941
+  },
+  {
+    "name": "Green Park",
+    "lat": 38.5272728,
+    "lng": -90.3145273
+  },
+  {
+    "name": "Tate Modern",
+    "lat": 51.50759530000001,
+    "lng": -0.0993564
+  },
+  {
+    "name": "Siena Cathedral",
+    "lat": 43.3177019,
+    "lng": 11.3289071
+  },
+  {
+    "name": "Basilica in Assisi",
+    "lat": 43.0749709,
+    "lng": 12.6054003
+  },
+  {
+    "name": "Great Smoky Mountains National Park",
+    "lat": 35.6117644,
+    "lng": -83.4895449
+  },
+  {
+    "name": "Smithsonian National Museum of Natural History",
+    "lat": 38.8912662,
+    "lng": -77.0260654
+  },
+  {
+    "name": "Zion National Park",
+    "lat": 37.2982022,
+    "lng": -113.0263005
+  },
+  {
+    "name": "Mesa Verde National Park",
+    "lat": 37.2308729,
+    "lng": -108.4618335
+  },
+  {
+    "name": "Þingvellir National Park",
+    "lat": 64.25585699999999,
+    "lng": -21.1303621
+  },
+  {
+    "name": "Trentino Dolomites, Italy",
+    "lat": 46.4102117,
+    "lng": 11.8440351
+  },
+  {
+    "name": "Trolltunga, Norway",
+    "lat": 60.124167,
+    "lng": 6.74
+  },
+  {
+    "name": "The Nazca Lines",
+    "lat": -14.739027,
+    "lng": -75.130005
+  },
+  {
+    "name": "Salar De Uyuni (Bolivia)",
+    "lat": -20.1337772,
+    "lng": -67.48913449999999
+  },
+  {
+    "name": "Dead Sea",
+    "lat": 31.5590287,
+    "lng": 35.4731895
+  },
+  {
+    "name": "Tian Tan Buddha",
+    "lat": 22.2539847,
+    "lng": 113.904984
+  },
+  {
+    "name": "Glacier Bay National Park",
+    "lat": 58.66580729999999,
+    "lng": -136.9002147
+  },
+  {
+    "name": "Hawaii Volcanoes National Park",
+    "lat": 19.4193697,
+    "lng": -155.2884969
+  },
+  {
+    "name": "Marrakech Bazaar",
+    "lat": 31.628715,
+    "lng": -7.991444
+  },
+  {
+    "name": "Ephesus",
+    "lat": 37.9489313,
+    "lng": 27.3676408
+  },
+  {
+    "name": "Great Blue Hole, Belize",
+    "lat": 17.3160476,
+    "lng": -87.5351438
+  },
+  {
+    "name": "Tigers Nest Monastery, Bhutan",
+    "lat": 27.4918934,
+    "lng": 89.3634957
+  },
+  {
+    "name": "Gullfoss Waterfall, Iceland",
+    "lat": 64.3270716,
+    "lng": -20.1199478
+  },
+  {
+    "name": "Halong Bay",
+    "lat": 20.9100512,
+    "lng": 107.1839024
+  },
+  {
+    "name": "Antelope Canyon",
+    "lat": 36.8619103,
+    "lng": -111.3743302
+  }
+];
