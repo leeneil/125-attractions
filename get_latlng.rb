@@ -11,7 +11,8 @@ file_path = "data/125-attractions.json"
 
 cd = 0
 
-geo_data = []
+geo_data = JSON.parse('{ "type": "FeatureCollection",
+    "features": []}')
 if GEOCODE
 	file = File.read(file_path)
 	data = JSON.parse(file)
@@ -36,7 +37,7 @@ if GEOCODE
 		geo["geometry"]["coordinates"] = [att["lng"], att["lat"]]
 		geo["properties"]["name"] = keyword
 
-		geo_data << geo
+		geo_data["features"] << geo
 
 		cd = cd + 1
 		if cd > 50
@@ -53,7 +54,7 @@ File.open("data/125-attractions_geo.json","w") do |f|
  f.write( JSON.pretty_generate(geo_data) )
 end
 
-File.open("data/125-attractions_latlng.json","w") do |f|
+File.open("data/125_attractions_latlng.json","w") do |f|
  f.write( JSON.pretty_generate(data) )
 end
 
