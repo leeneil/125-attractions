@@ -49,11 +49,11 @@ else
 	data = JSON.parse(file)
 end
 
-File.open("data/125_attractions_geo.json","w") do |f|
+File.open("data/125-attractions_geo.json","w") do |f|
  f.write( JSON.pretty_generate(geo_data) )
 end
 
-File.open("data/125_attractions_latlng.json","w") do |f|
+File.open("data/125-attractions_latlng.json","w") do |f|
  f.write( JSON.pretty_generate(data) )
 end
 
