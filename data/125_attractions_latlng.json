@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Stanford Graduate Housing Map</title>
-    <style>
-      #map {
-        height: 600px;
-        width: 100%;
-       }
-    </style>
-    <script type="text/javascript" src="data/125-attractions_latlng.json"></script>
-  </head>
-  <body>
-    <h3>Top 250 Global Attractions</h3>
-    <p>Data source: <a href="http://www.listchallenges.com/top-250-famous-attractions-in-the-world/checklist/1" target="_blank">Top 250 Global Attractions</a></p> 
-    <div id="map"></div>
-    
-    <script>
-      function initMap() {
-        var geocoder = new google.maps.Geocoder();
-        var data = [
+[
   {
     "name": "Great Wall of China",
     "lat": 40.4319077,
@@ -66,8 +46,8 @@
   },
   {
     "name": "Little Mermaid",
-    "lat": 59.6033802,
-    "lng": -151.4257531
+    "lat": 55.69286,
+    "lng": 12.5992828
   },
   {
     "name": "Taj Mahal",
@@ -1269,51 +1249,4 @@
     "lat": 36.8619103,
     "lng": -111.3743302
   }
-];
-        var stanford = JSON.parse('[{"lat": 37.427669, "lng": -122.169998, "address": "121 Campus Drive, Stanford, CA 94305"}]');
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 3,
-          center: stanford[0]
-        });
-        map.data.loadGeoJson('http://www.ponan.li/125-attractions/data/125-attractions_geo.json');
-        data = map.data["features"]
-        // for (var i = 0; i < map.data.length; i++) {
-        //   var apt = new google.maps.Marker({
-        //     position: {lat: data[i]["geometry"]["coordinates"][1], 
-        //                lng: data[i]["geometry"]["coordinates"][0]},
-        //     map: map,
-        //     title: data[i]["properties"]["name"]
-        //   });
-        //   // } 
-        // }
-        
-        var marker = new google.maps.Marker({
-          position: stanford[0],
-          title: "Stanford",
-          // map: map
-        });
-      }
-      var image = 'icons/lodging.svg';
-      function geocodeAddress(geocoder, resultsMap, loc) {
-        var address = loc["address"]
-        geocoder.geocode({'address': address}, function(results, status) {
-          if (status === 'OK') {
-            console.log("ok!")
-            resultsMap.setCenter(results[0].geometry.location);
-            var marker = new google.maps.Marker({
-              map: resultsMap,
-              position: results[0].geometry.location,
-              title: loc["name"]
-              // icon: image
-            });
-          } else {
-            alert('Geocode was not successful for the following reason: ' + status);
-          }
-        });
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8J-lRb0yrbTUmW47mqFWRwShSFwdECmQ&callback=initMap">
-    </script>
-  </body>
-</html>
+]

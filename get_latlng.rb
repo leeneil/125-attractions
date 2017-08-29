@@ -33,13 +33,13 @@ if GEOCODE
 		    "name": ""
 		  }
 		}')
-		geo["geometry"]["coordinates"] = [att["lat"], att["lng"]]
+		geo["geometry"]["coordinates"] = [att["lng"], att["lat"]]
 		geo["properties"]["name"] = keyword
 
 		geo_data << geo
 
 		cd = cd + 1
-		if cd > 20
+		if cd > 50
 			sleep 1
 			cd = 0
 		end
