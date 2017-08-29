@@ -8,6 +8,10 @@ require "csv"
 GEOCODE = true
 file_path = "data/125-attractions.json"
 
+
+cd = 0
+
+geo_data = []
 if GEOCODE
 	file = File.read(file_path)
 	data = JSON.parse(file)
@@ -19,11 +23,34 @@ if GEOCODE
 		puts rst[0].longitude
 		att["lat"] = rst[0].latitude
 		att["lng"] = rst[0].longitude
-		sleep 1
+		geo = JSON.parse('{
+		  "type": "Feature",
+		  "geometry": {
+		    "type": "Point",
+		    "coordinates": [0,0]
+		  },
+		  "properties": {
+		    "name": ""
+		  }
+		}')
+		geo["geometry"]["coordinates"] = [att["lat"], att["lng"]]
+		geo["properties"]["name"] = keyword
+
+		geo_data << geo
+
+		cd = cd + 1
+		if cd > 20
+			sleep 1
+			cd = 0
+		end
 	end
 else
 	file = File.read(file_path)
 	data = JSON.parse(file)
+end
+
+File.open("data/125_attractions_geo.json","w") do |f|
+ f.write( JSON.pretty_generate(geo_data) )
 end
 
 File.open("data/125_attractions_latlng.json","w") do |f|

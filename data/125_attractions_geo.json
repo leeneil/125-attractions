@@ -1,0 +1,3252 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.4319077,
+        116.5703749
+      ]
+    },
+    "properties": {
+      "name": "Great Wall of China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.6892494,
+        -74.04450039999999
+      ]
+    },
+    "properties": {
+      "name": "Statue of Liberty"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.85837009999999,
+        2.2944813
+      ]
+    },
+    "properties": {
+      "name": "Eiffel Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.50072919999999,
+        -0.1246254
+      ]
+    },
+    "properties": {
+      "name": "Big Ben"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -33.8567844,
+        151.2152967
+      ]
+    },
+    "properties": {
+      "name": "Sydney Opera House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.1341151,
+        -118.3215482
+      ]
+    },
+    "properties": {
+      "name": "Hollywood Sign"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.8902102,
+        12.4922309
+      ]
+    },
+    "properties": {
+      "name": "Colosseum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.8976763,
+        -77.0365298
+      ]
+    },
+    "properties": {
+      "name": "White House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.4036299,
+        2.1743558
+      ]
+    },
+    "properties": {
+      "name": "Sagrada Familia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.6033802,
+        -151.4257531
+      ]
+    },
+    "properties": {
+      "name": "Little Mermaid"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.1750151,
+        78.0421552
+      ]
+    },
+    "properties": {
+      "name": "Taj Mahal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.141306,
+        55.185348
+      ]
+    },
+    "properties": {
+      "name": "Burj Al Arab Hotel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.9792345,
+        31.1342019
+      ]
+    },
+    "properties": {
+      "name": "The Pyramids of Giza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.1069652,
+        -112.1129972
+      ]
+    },
+    "properties": {
+      "name": "Grand Canyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.8737917,
+        2.2950275
+      ]
+    },
+    "properties": {
+      "name": "Arc de Triomphe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.758895,
+        -73.985131
+      ]
+    },
+    "properties": {
+      "name": "Times Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.9715323,
+        23.7257492
+      ]
+    },
+    "properties": {
+      "name": "Acropolis, Greece"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.6585805,
+        139.7454329
+      ]
+    },
+    "properties": {
+      "name": "Tokyo Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.8449933,
+        4.3499778
+      ]
+    },
+    "properties": {
+      "name": "Brussels: Mannekin-Pis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -22.951916,
+        -43.2104872
+      ]
+    },
+    "properties": {
+      "name": "Christ the Redeemer - Rio De Janerio, Brazil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -25.3444277,
+        131.0368822
+      ]
+    },
+    "properties": {
+      "name": "Uluru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.503324,
+        -0.119543
+      ]
+    },
+    "properties": {
+      "name": "London Eye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7484405,
+        -73.98566439999999
+      ]
+    },
+    "properties": {
+      "name": "Empire State Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -13.1631412,
+        -72.5449629
+      ]
+    },
+    "properties": {
+      "name": "Machu Picchu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.9163447,
+        116.3971546
+      ]
+    },
+    "properties": {
+      "name": "The Forbidden City, China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.197197,
+        55.27437639999999
+      ]
+    },
+    "properties": {
+      "name": "Burj Khalifa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.8606111,
+        2.337644
+      ]
+    },
+    "properties": {
+      "name": "Louvre Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.3284544,
+        35.4443622
+      ]
+    },
+    "properties": {
+      "name": "Petra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.7525229,
+        37.6230868
+      ]
+    },
+    "properties": {
+      "name": "Saint Basil's Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.09021629999999,
+        14.3995792
+      ]
+    },
+    "properties": {
+      "name": "Prague Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.2396889,
+        121.4997553
+      ]
+    },
+    "properties": {
+      "name": "Oriental Pearl Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.8199286,
+        -122.4782551
+      ]
+    },
+    "properties": {
+      "name": "Golden Gate Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.008583,
+        28.980175
+      ]
+    },
+    "properties": {
+      "name": "Hagia Sophia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.87910249999999,
+        -103.4590667
+      ]
+    },
+    "properties": {
+      "name": "Mount Rushmore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.17888199999999,
+        -1.826215
+      ]
+    },
+    "properties": {
+      "name": "Stonehenge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.8048649,
+        2.1203554
+      ]
+    },
+    "properties": {
+      "name": "Versailles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.0674247,
+        37.35562729999999
+      ]
+    },
+    "properties": {
+      "name": "Kilimanjaro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.8860434,
+        -76.999525
+      ]
+    },
+    "properties": {
+      "name": "Capitol Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.53505209999999,
+        13.3901898
+      ]
+    },
+    "properties": {
+      "name": "Berlin Wall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.6416987,
+        18.1072376
+      ]
+    },
+    "properties": {
+      "name": "Ancient City Walls, Dubrovnik"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.50811239999999,
+        -0.0759493
+      ]
+    },
+    "properties": {
+      "name": "Tower of London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -27.112723,
+        -109.3496865
+      ]
+    },
+    "properties": {
+      "name": "Moai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.557574,
+        10.7498004
+      ]
+    },
+    "properties": {
+      "name": "Neuschwanstein Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.4640976,
+        9.1919265
+      ]
+    },
+    "properties": {
+      "name": "Milan Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.6325896,
+        -74.0271415
+      ]
+    },
+    "properties": {
+      "name": "Vesuvio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.1440934,
+        -5.3417241
+      ]
+    },
+    "properties": {
+      "name": "Rock of Gibraltar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.8788764,
+        -87.6359149
+      ]
+    },
+    "properties": {
+      "name": "Willis Tower (Sears Tower)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.93983170000001,
+        30.3145597
+      ]
+    },
+    "properties": {
+      "name": "Hermitage Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.5055972,
+        -0.0753379
+      ]
+    },
+    "properties": {
+      "name": "Tower Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.6842849,
+        -88.5677826
+      ]
+    },
+    "properties": {
+      "name": "Chichen Itza Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.9752687,
+        31.1375674
+      ]
+    },
+    "properties": {
+      "name": "The Great Sphinx"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.0962143,
+        -79.0377388
+      ]
+    },
+    "properties": {
+      "name": "Niagara Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.88670459999999,
+        2.3431043
+      ]
+    },
+    "properties": {
+      "name": "Sacre-Coeur Basilica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.6205063,
+        -122.3492774
+      ]
+    },
+    "properties": {
+      "name": "Space Needle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.636063,
+        -1.511457
+      ]
+    },
+    "properties": {
+      "name": "Mont St. Michel, France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.9021667,
+        12.4539367
+      ]
+    },
+    "properties": {
+      "name": "St. Peter's Basilica, Vatican"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.4124693,
+        103.8669857
+      ]
+    },
+    "properties": {
+      "name": "Angkor Wat, Cambodia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7060855,
+        -73.9968643
+      ]
+    },
+    "properties": {
+      "name": "Brooklyn Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.7520233,
+        37.6174994
+      ]
+    },
+    "properties": {
+      "name": "Kremlin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.8986108,
+        12.4768729
+      ]
+    },
+    "properties": {
+      "name": "Pantheon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.508039,
+        -0.128069
+      ]
+    },
+    "properties": {
+      "name": "Trafalgar Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.94756599999999,
+        4.53496
+      ]
+    },
+    "properties": {
+      "name": "Pond Du Garre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.1760783,
+        -3.5881413
+      ]
+    },
+    "properties": {
+      "name": "Alhambra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.3256984,
+        18.0718788
+      ]
+    },
+    "properties": {
+      "name": "Gamla Stan, Stockholm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.9895165,
+        -110.131242
+      ]
+    },
+    "properties": {
+      "name": "Monument Valley Navajo Tribal Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.6554942,
+        91.11857920000001
+      ]
+    },
+    "properties": {
+      "name": "Potala Palace, Lhasa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.976574,
+        7.6584519
+      ]
+    },
+    "properties": {
+      "name": "Matterhorn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.4341668,
+        12.3384717
+      ]
+    },
+    "properties": {
+      "name": "St. Mark's Square Venice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.501364,
+        -0.14189
+      ]
+    },
+    "properties": {
+      "name": "Buckingham Palace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.6994748,
+        -74.0395587
+      ]
+    },
+    "properties": {
+      "name": "Ellis Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.9009325,
+        12.483313
+      ]
+    },
+    "properties": {
+      "name": "Trevi Fountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7587402,
+        -73.9786736
+      ]
+    },
+    "properties": {
+      "name": "Rockefeller Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.0273915,
+        19.2019773
+      ]
+    },
+    "properties": {
+      "name": "Auschwitz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -25.695259,
+        -54.4366662
+      ]
+    },
+    "properties": {
+      "name": "Iguazu Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.2984804,
+        25.1595555
+      ]
+    },
+    "properties": {
+      "name": "Knossos, Crete"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.483894,
+        -0.6044027
+      ]
+    },
+    "properties": {
+      "name": "Windsor Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.9999823,
+        116.2754606
+      ]
+    },
+    "properties": {
+      "name": "The Summer Palace, China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.1613985,
+        138.6762728
+      ]
+    },
+    "properties": {
+      "name": "Fuji"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.79494829999999,
+        13.0476583
+      ]
+    },
+    "properties": {
+      "name": "Festung Hohensalzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -18.2870668,
+        147.6991918
+      ]
+    },
+    "properties": {
+      "name": "Great Barrier Reef"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.427963,
+        -110.588455
+      ]
+    },
+    "properties": {
+      "name": "Yellowstone National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.09551,
+        -115.1760672
+      ]
+    },
+    "properties": {
+      "name": "Luxor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.0106848,
+        28.9680681
+      ]
+    },
+    "properties": {
+      "name": "Grand Bazaar, Istanbul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        64.31037189999999,
+        -20.3023605
+      ]
+    },
+    "properties": {
+      "name": "Great Geysir, Iceland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.5169328,
+        13.4018997
+      ]
+    },
+    "properties": {
+      "name": "Berlin Museum Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.9537690999999999,
+        -90.9656019
+      ]
+    },
+    "properties": {
+      "name": "Galapagos Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -15.9254,
+        -69.33539999999999
+      ]
+    },
+    "properties": {
+      "name": "Lake Titicaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        53.69471189999999,
+        -6.4754917
+      ]
+    },
+    "properties": {
+      "name": "Newgrange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.720489,
+        35.48259700000001
+      ]
+    },
+    "properties": {
+      "name": "Cappadocia, Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.2866155,
+        -80.89865089999999
+      ]
+    },
+    "properties": {
+      "name": "Everglades National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.3599976,
+        4.8852188
+      ]
+    },
+    "properties": {
+      "name": "Rijksmuseum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.860642,
+        2.352245
+      ]
+    },
+    "properties": {
+      "name": "Pompidue Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7828647,
+        -73.9653551
+      ]
+    },
+    "properties": {
+      "name": "Central Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.6915837,
+        -9.215977299999999
+      ]
+    },
+    "properties": {
+      "name": "Torre De Belém (Belém Tower)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.722952,
+        10.396597
+      ]
+    },
+    "properties": {
+      "name": "Leaning Tower of Pisa, Pisa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -33.962822,
+        18.4098406
+      ]
+    },
+    "properties": {
+      "name": "Table Mountain Cape Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -38.6621015,
+        143.1050917
+      ]
+    },
+    "properties": {
+      "name": "Twelve Apostles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.6425662,
+        -79.3870568
+      ]
+    },
+    "properties": {
+      "name": "CN Tower"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.4992921,
+        -0.1273097
+      ]
+    },
+    "properties": {
+      "name": "Westminster Abbey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.18486480000001,
+        16.3122398
+      ]
+    },
+    "properties": {
+      "name": "Schonbrunn Palace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.9485947,
+        -3.1999135
+      ]
+    },
+    "properties": {
+      "name": "Edinburgh Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.90748850000001,
+        10.7531275
+      ]
+    },
+    "properties": {
+      "name": "Oslo Opera House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.8892686,
+        -77.050176
+      ]
+    },
+    "properties": {
+      "name": "Lincoln Memorial"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.8651011,
+        -119.5383294
+      ]
+    },
+    "properties": {
+      "name": "Yosemite National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.85296820000001,
+        2.3499021
+      ]
+    },
+    "properties": {
+      "name": "Notre Dame Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.98785,
+        86.9250261
+      ]
+    },
+    "properties": {
+      "name": "Mount Everest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.4340359,
+        12.3390331
+      ]
+    },
+    "properties": {
+      "name": "St. Mark's Basilica & Campanile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7461572,
+        14.4989344
+      ]
+    },
+    "properties": {
+      "name": "Pompeii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.417955,
+        -3.714311999999999
+      ]
+    },
+    "properties": {
+      "name": "Madrid Palace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.773145,
+        11.2559602
+      ]
+    },
+    "properties": {
+      "name": "Florence Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.1699412,
+        -115.1398296
+      ]
+    },
+    "properties": {
+      "name": "Las Vegas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.5138453,
+        -0.0983506
+      ]
+    },
+    "properties": {
+      "name": "St. Paul's Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.4379842,
+        12.335898
+      ]
+    },
+    "properties": {
+      "name": "Rialto Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.8269775,
+        -122.4229555
+      ]
+    },
+    "properties": {
+      "name": "Alcatraz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.13446889999999,
+        1.3573028
+      ]
+    },
+    "properties": {
+      "name": "White Cliffs of Dover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.8894838,
+        -77.0352791
+      ]
+    },
+    "properties": {
+      "name": "Washington Monument"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.4389958,
+        10.9943574
+      ]
+    },
+    "properties": {
+      "name": "Arena Di Verona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.51449179999999,
+        -0.0803065
+      ]
+    },
+    "properties": {
+      "name": "The Gherkin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.5162746,
+        13.3777041
+      ]
+    },
+    "properties": {
+      "name": "Brandenburg Gate, Berlin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.8718568,
+        -77.0562669
+      ]
+    },
+    "properties": {
+      "name": "Pentagon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.8826572,
+        -87.6233039
+      ]
+    },
+    "properties": {
+      "name": "Cloud Gate, Chicago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.3841153,
+        109.2784918
+      ]
+    },
+    "properties": {
+      "name": "Terracotta Warriors"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.94127839999999,
+        6.9582814
+      ]
+    },
+    "properties": {
+      "name": "Cologne Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.5045,
+        -0.0865
+      ]
+    },
+    "properties": {
+      "name": "The Shard"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.6797154,
+        12.5907984
+      ]
+    },
+    "properties": {
+      "name": "Nyhavn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.767925,
+        11.2531435
+      ]
+    },
+    "properties": {
+      "name": "Ponte Vecchio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.7767189,
+        35.2345085
+      ]
+    },
+    "properties": {
+      "name": "Wailing Wall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        57.3228575,
+        -4.4243818
+      ]
+    },
+    "properties": {
+      "name": "Loch Ness"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -33.8523063,
+        151.2107871
+      ]
+    },
+    "properties": {
+      "name": "Sydney Harbor Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.9029468,
+        12.4544835
+      ]
+    },
+    "properties": {
+      "name": "Sistine Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3890824,
+        39.8579118
+      ]
+    },
+    "properties": {
+      "name": "Mecca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.43404959999999,
+        12.3408544
+      ]
+    },
+    "properties": {
+      "name": "Bridge of Sighs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.751005,
+        14.9934349
+      ]
+    },
+    "properties": {
+      "name": "Mount Etna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.053919,
+        1.167651
+      ]
+    },
+    "properties": {
+      "name": "Lascaux Caves, France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.5930377,
+        -112.1870895
+      ]
+    },
+    "properties": {
+      "name": "Bryce Canyon National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.3166995,
+        139.5361536
+      ]
+    },
+    "properties": {
+      "name": "Great Buddha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.90599,
+        12.482775
+      ]
+    },
+    "properties": {
+      "name": "Spanish Steps"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7127431,
+        -74.0133795
+      ]
+    },
+    "properties": {
+      "name": "Freedom Tower, Ground Zero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.624691,
+        -90.1847763
+      ]
+    },
+    "properties": {
+      "name": "Gateway Arch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.2345644,
+        121.5074394
+      ]
+    },
+    "properties": {
+      "name": "Shanghai World Finacial Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.2131788,
+        -124.0046275
+      ]
+    },
+    "properties": {
+      "name": "Redwood National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.8841232,
+        2.3322519
+      ]
+    },
+    "properties": {
+      "name": "Moulin Rouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.8883468,
+        4.636879500000001
+      ]
+    },
+    "properties": {
+      "name": "Mill Complex at Kinderdijk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        56.0390142,
+        12.6211552
+      ]
+    },
+    "properties": {
+      "name": "Kronborg Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.3931562,
+        25.4615092
+      ]
+    },
+    "properties": {
+      "name": "Santorini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        60.1704191,
+        24.9521651
+      ]
+    },
+    "properties": {
+      "name": "Helsinki Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.5190608,
+        13.401078
+      ]
+    },
+    "properties": {
+      "name": "Berlin Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.8168555,
+        -0.136738
+      ]
+    },
+    "properties": {
+      "name": "Brighton Pier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.6736841,
+        12.5681471
+      ]
+    },
+    "properties": {
+      "name": "Tivoli Gardens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.9508521,
+        4.8076971
+      ]
+    },
+    "properties": {
+      "name": "Papel Palace, Avignon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.8722344,
+        2.7758079
+      ]
+    },
+    "properties": {
+      "name": "Disneyland Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.716123,
+        30.3956531
+      ]
+    },
+    "properties": {
+      "name": "Tsarskoye Selo (Catherine Palace), St Petersburg, Russia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.375801,
+        -2.3599039
+      ]
+    },
+    "properties": {
+      "name": "Bath, England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.1945054,
+        -0.0519706
+      ]
+    },
+    "properties": {
+      "name": "Juliet's Balcony"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.2408073,
+        -6.5115554
+      ]
+    },
+    "properties": {
+      "name": "Giant's Causeway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.51490219999999,
+        25.3671637
+      ]
+    },
+    "properties": {
+      "name": "Bran Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.3031559,
+        9.2097879
+      ]
+    },
+    "properties": {
+      "name": "Portofino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.894941,
+        4.341546999999999
+      ]
+    },
+    "properties": {
+      "name": "Atomium, Brussels"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.0516489,
+        8.307535099999999
+      ]
+    },
+    "properties": {
+      "name": "Chapel Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.2686712,
+        -2.9340118
+      ]
+    },
+    "properties": {
+      "name": "Guggenheim Museum (Bilbao)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.31842049999999,
+        11.3316911
+      ]
+    },
+    "properties": {
+      "name": "Piazza Del Campo, Siena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.1016992,
+        -118.3336771
+      ]
+    },
+    "properties": {
+      "name": "Hollywood Walk of Fame"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.5053891,
+        -117.0794078
+      ]
+    },
+    "properties": {
+      "name": "Death Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.5194133,
+        -0.1269566
+      ]
+    },
+    "properties": {
+      "name": "British Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.6840588,
+        12.5930201
+      ]
+    },
+    "properties": {
+      "name": "Amalienborg Palace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        63.880391,
+        -22.4495089
+      ]
+    },
+    "properties": {
+      "name": "Blue Lagoon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.7548164,
+        -1.2543668
+      ]
+    },
+    "properties": {
+      "name": "Oxford University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.0054096,
+        28.9768138
+      ]
+    },
+    "properties": {
+      "name": "Blue Mosque, Istanbul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.0774541,
+        3.0228388
+      ]
+    },
+    "properties": {
+      "name": "Millau Bridge, France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.5100913,
+        -0.1345676
+      ]
+    },
+    "properties": {
+      "name": "Piccadilly Circus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.212161,
+        2.353663
+      ]
+    },
+    "properties": {
+      "name": "Carcassonne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.6873153,
+        135.5262013
+      ]
+    },
+    "properties": {
+      "name": "Osaka Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.002266,
+        0.543549
+      ]
+    },
+    "properties": {
+      "name": "Bodiam Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.23866599999999,
+        137.9690221
+      ]
+    },
+    "properties": {
+      "name": "Matsumoto Castle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.32169349999999,
+        17.8868253
+      ]
+    },
+    "properties": {
+      "name": "Drottningholm Palace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.7869313,
+        -76.2221902
+      ]
+    },
+    "properties": {
+      "name": "Lover's Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.0864771,
+        14.4114366
+      ]
+    },
+    "properties": {
+      "name": "Charles Bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.9538522,
+        4.8048781
+      ]
+    },
+    "properties": {
+      "name": "Pont D'avignon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        49.3586702,
+        -0.8514512
+      ]
+    },
+    "properties": {
+      "name": "D-Day Beaches, American Cemetary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.5706287,
+        12.8486371
+      ]
+    },
+    "properties": {
+      "name": "Oresund Bridge, Copenhagen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.64263769999999,
+        12.0804491
+      ]
+    },
+    "properties": {
+      "name": "Roskilde Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.3614749,
+        -121.856261
+      ]
+    },
+    "properties": {
+      "name": "Big Sur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.4863668,
+        -118.5657516
+      ]
+    },
+    "properties": {
+      "name": "Sequoia National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -50.9423262,
+        -73.4067879
+      ]
+    },
+    "properties": {
+      "name": "Torres Del Paine National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.0308987,
+        39.0476298
+      ]
+    },
+    "properties": {
+      "name": "Rock-Hewn Churches, Lalibela"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.58469299999999,
+        -3.077786
+      ]
+    },
+    "properties": {
+      "name": "Carnac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        50.0546371,
+        19.9354684
+      ]
+    },
+    "properties": {
+      "name": "Krakow - Wawel Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -13.2583689,
+        -72.2642679
+      ]
+    },
+    "properties": {
+      "name": "Ollantaytambo, Peru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.7904282,
+        -110.6817627
+      ]
+    },
+    "properties": {
+      "name": "Grand Teton National Park, Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.7829796,
+        -73.9589706
+      ]
+    },
+    "properties": {
+      "name": "Guggenheim (New York City)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        60.17299499999999,
+        24.925234
+      ]
+    },
+    "properties": {
+      "name": "Church in the Rock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4065513,
+        34.906551
+      ]
+    },
+    "properties": {
+      "name": "Masai Mara, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.6049385,
+        10.6351414
+      ]
+    },
+    "properties": {
+      "name": "Lago Di Garda, Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.0774495,
+        11.6775951
+      ]
+    },
+    "properties": {
+      "name": "Pienza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.735316,
+        -117.149046
+      ]
+    },
+    "properties": {
+      "name": "San Diego Zoo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.733081,
+        -109.5925139
+      ]
+    },
+    "properties": {
+      "name": "Arches National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -44.6414024,
+        167.8973801
+      ]
+    },
+    "properties": {
+      "name": "Milford Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.3333333,
+        34.8333333
+      ]
+    },
+    "properties": {
+      "name": "Serengeti National Park, Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.967518000000001,
+        -62.53556099999999
+      ]
+    },
+    "properties": {
+      "name": "Angel Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        59.4369933,
+        24.7453731
+      ]
+    },
+    "properties": {
+      "name": "Tallinn Town Hall Square, Estonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        60.3975672,
+        5.3245493
+      ]
+    },
+    "properties": {
+      "name": "Bryggen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.3584159,
+        4.8810756
+      ]
+    },
+    "properties": {
+      "name": "Van Gogh Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        52.2042666,
+        0.1149085
+      ]
+    },
+    "properties": {
+      "name": "Cambridge University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -19.6510095,
+        22.9058802
+      ]
+    },
+    "properties": {
+      "name": "Okavango Delta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -49.271246,
+        -73.04322599999999
+      ]
+    },
+    "properties": {
+      "name": "Monte Fitz Roy, El Chalten, Argentina/Chile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.0160655,
+        -114.7377325
+      ]
+    },
+    "properties": {
+      "name": "Hoover Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.4968464,
+        -115.9280562
+      ]
+    },
+    "properties": {
+      "name": "Banff National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.0275441,
+        -111.0221236
+      ]
+    },
+    "properties": {
+      "name": "Winslow, AZ - Meteor Barringer Crater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        19.685267,
+        -98.8721186
+      ]
+    },
+    "properties": {
+      "name": "Teotihuacan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.1438034,
+        -79.7285161
+      ]
+    },
+    "properties": {
+      "name": "The Panama Canal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.1478553,
+        -104.5567138
+      ]
+    },
+    "properties": {
+      "name": "Carlsbad Caverns National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.8789056,
+        -4.7793869
+      ]
+    },
+    "properties": {
+      "name": "Mezquita of Cordoba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        48.4478026,
+        1.4878371
+      ]
+    },
+    "properties": {
+      "name": "Chartres Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        47.616126,
+        1.517218
+      ]
+    },
+    "properties": {
+      "name": "Chateau De Chambord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.5875371,
+        -86.6750059
+      ]
+    },
+    "properties": {
+      "name": "Delphi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.7401643,
+        32.601411
+      ]
+    },
+    "properties": {
+      "name": "Valley of the Kings"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.7776563,
+        35.2324593
+      ]
+    },
+    "properties": {
+      "name": "Jerusalem Old City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        23.970883,
+        32.8772699
+      ]
+    },
+    "properties": {
+      "name": "The Aswan High Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.1617522,
+        35.5876697
+      ]
+    },
+    "properties": {
+      "name": "Ngorongoro Crater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.61998029999999,
+        74.8764849
+      ]
+    },
+    "properties": {
+      "name": "Golden Temple - Darbar Sahib - Harmandir Sahib"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        53.5587003,
+        108.1649965
+      ]
+    },
+    "properties": {
+      "name": "Lake Baikal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -7.6078738,
+        110.2037513
+      ]
+    },
+    "properties": {
+      "name": "Borobudur Temple, Java"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.117096,
+        110.479191
+      ]
+    },
+    "properties": {
+      "name": "Zhangjiajie China"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        16.9239537,
+        121.0556401
+      ]
+    },
+    "properties": {
+      "name": "Banaue Rice Terraces"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.5850461,
+        119.4411476
+      ]
+    },
+    "properties": {
+      "name": "Komodo Island, Indonesia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -17.9243527,
+        25.8558941
+      ]
+    },
+    "properties": {
+      "name": "Victoria Falls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.5272728,
+        -90.3145273
+      ]
+    },
+    "properties": {
+      "name": "Green Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        51.50759530000001,
+        -0.0993564
+      ]
+    },
+    "properties": {
+      "name": "Tate Modern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.3177019,
+        11.3289071
+      ]
+    },
+    "properties": {
+      "name": "Siena Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.0749709,
+        12.6054003
+      ]
+    },
+    "properties": {
+      "name": "Basilica in Assisi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.6117644,
+        -83.4895449
+      ]
+    },
+    "properties": {
+      "name": "Great Smoky Mountains National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.8912662,
+        -77.0260654
+      ]
+    },
+    "properties": {
+      "name": "Smithsonian National Museum of Natural History"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.2982022,
+        -113.0263005
+      ]
+    },
+    "properties": {
+      "name": "Zion National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.2308729,
+        -108.4618335
+      ]
+    },
+    "properties": {
+      "name": "Mesa Verde National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        64.25585699999999,
+        -21.1303621
+      ]
+    },
+    "properties": {
+      "name": "Þingvellir National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.4102117,
+        11.8440351
+      ]
+    },
+    "properties": {
+      "name": "Trentino Dolomites, Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        60.124167,
+        6.74
+      ]
+    },
+    "properties": {
+      "name": "Trolltunga, Norway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -14.739027,
+        -75.130005
+      ]
+    },
+    "properties": {
+      "name": "The Nazca Lines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -20.1337772,
+        -67.48913449999999
+      ]
+    },
+    "properties": {
+      "name": "Salar De Uyuni (Bolivia)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.5590287,
+        35.4731895
+      ]
+    },
+    "properties": {
+      "name": "Dead Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.2539847,
+        113.904984
+      ]
+    },
+    "properties": {
+      "name": "Tian Tan Buddha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        58.66580729999999,
+        -136.9002147
+      ]
+    },
+    "properties": {
+      "name": "Glacier Bay National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        19.4193697,
+        -155.2884969
+      ]
+    },
+    "properties": {
+      "name": "Hawaii Volcanoes National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.628715,
+        -7.991444
+      ]
+    },
+    "properties": {
+      "name": "Marrakech Bazaar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.9489313,
+        27.3676408
+      ]
+    },
+    "properties": {
+      "name": "Ephesus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        17.3160476,
+        -87.5351438
+      ]
+    },
+    "properties": {
+      "name": "Great Blue Hole, Belize"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.4918934,
+        89.3634957
+      ]
+    },
+    "properties": {
+      "name": "Tigers Nest Monastery, Bhutan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        64.3270716,
+        -20.1199478
+      ]
+    },
+    "properties": {
+      "name": "Gullfoss Waterfall, Iceland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.9100512,
+        107.1839024
+      ]
+    },
+    "properties": {
+      "name": "Halong Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.8619103,
+        -111.3743302
+      ]
+    },
+    "properties": {
+      "name": "Antelope Canyon"
+    }
+  }
+]
